@@ -1,0 +1,48 @@
+execute_script a.txt
+add
+547.9
+route32
+54.22
+456
+forest
+67.3
+88.0
+field
+21.7
+90.5
+show
+update 5
+547.9
+route23
+54.22
+456
+field
+67.3
+88.0
+forest
+21.7
+90.5
+show
+remove_by_id 4
+show
+save
+add_if_min 
+328.9
+route0
+77.3
+32
+lake
+66
+93.6
+country house
+51
+98.3
+show
+remove_head
+show
+group_counting_by_from
+filter_contains_name 2
+print_unique_distance
+show
+save
+exit
